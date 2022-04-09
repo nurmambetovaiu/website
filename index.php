@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
  
      <!-- Site Metas -->
-    <title>Yamifood Restaurant - Responsive HTML5 Template</title>  
+    <title>FRUNZE RESTAURANT - Responsive HTML5 Template</title>  
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -106,7 +106,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
-							<h1 class="m-b-20"><strong>Welcome To <br> Yamifood Restaurant</strong></h1>
+							<h1 class="m-b-20"><strong>Welcome To <br> FRUNZE Restaurant</strong></h1>
 							<p class="m-b-40">See how your users experience your website in realtime or view  <br> 
 							trends to see any changes in performance over time.</p>
 							<p><a class="btn btn-lg btn-circle btn-outline-new-white" href="#">Reservation</a></p>
@@ -131,7 +131,7 @@
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 text-center">
 					<div class="inner-column">
-						<h1>Welcome To <span>Yamifood Restaurant</span></h1>
+						<h1>Welcome To <span>FRUNZE Restaurant</span></h1>
 						<h4>Little Story</h4>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor suscipit feugiat. Ut at pellentesque ante, sed convallis arcu. Nullam facilisis, eros in eleifend luctus, odio ante sodales augue, eget lacinia lectus erat et sem. </p>
 						<p>Sed semper orci sit amet porta placerat. Etiam quis finibus eros. Sed aliquam metus lorem, a pellentesque tellus pretium a. Nulla placerat elit in justo vestibulum, et maximus sem pulvinar.</p>
@@ -444,9 +444,9 @@
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<h3>Contact information</h3>
-					<p class="lead">Ipsum Street, Lorem Tower, MO, Columbia, 508000</p>
-					<p class="lead"><a href="#">+01 2000 800 9999</a></p>
-					<p><a href="#"> info@admin.com</a></p>
+					<p class="lead">Chui street, Bishkek, Kyrgyzstan, 508000</p>
+					<p class="lead"><a href="#">+996 551 031 013</a></p>
+					<p><a href="#"> frunzerestaurant@gmail.com</a></p>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<h3>Subscribe</h3>
@@ -472,7 +472,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
-						<p class="company-name">All Rights Reserved. &copy; 2018 <a href="#">Yamifood Restaurant</a> Design By : 
+						<p class="company-name">All Rights Reserved. &copy; 2018 <a href="#">FRUNZE Restaurant</a> Design By : 
 					<a href="https://html.design/">html design</a></p>
 					</div>
 				</div>

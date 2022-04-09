@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en"><!-- Basic -->
+
 <head>
+ <link rel="shortcut icon" href="/images/nn.jfif" type="image/x-icon">
+</head>	
+	
+	<head>
 	<meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">   
    

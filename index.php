@@ -361,7 +361,7 @@
 							</div>
 							<div class="carousel-item text-center">
 								<div class="img-box p-1 border rounded-circle m-auto">
-									<img class="d-block w-100 rounded-circle" src="images/profile-3.jpg" alt="">
+									<img class="d-block w-100 rounded-circle" src="images/IMG_0241.HEIC" alt="">
 								</div>
 								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Nurtenir Anarbek</strong></h5>
 								<h6 class="text-dark m-0">Web Designer</h6>
@@ -369,7 +369,7 @@
 							</div>
 							<div class="carousel-item text-center">
 								<div class="img-box p-1 border rounded-circle m-auto">
-									<img class="d-block w-100 rounded-circle" src="images/profile-7.jpg" alt="">
+									<img class="d-block w-100 rounded-circle" src="images/photo1645526742.jpeg" alt="">
 								</div>
 								<h5 class="mt-4 mb-0"><strong class="text-warning text-uppercase">Diyorbek</strong></h5>
 								<h6 class="text-dark m-0">Seo Analyst</h6>
